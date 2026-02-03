@@ -1,7 +1,7 @@
 # 💫 Sobre mí:
 Soy una profesional del área tecnológica con formación en Desarrollo de Software y experiencia en programación y análisis de datos. He trabajado en proyectos que integran ambos campos, creando soluciones eficientes y orientadas a las necesidades reales de cada equipo o institución.
 
-En desarrollo de software, he participado en proyectos fullstack utilizando herramientas como Spring Boot, React y Firebase. Destaca mi aporte en el prototipo de un sistema IoT para el monitoreo de residuos (aceite de cocina usado), donde desarrollé parte del backend y trabajé con datos en tiempo real.
+En desarrollo de software, he participado en proyectos fullstack utilizando herramientas como Spring Boot, React y Supabase. Destaca mi aporte en el prototipo de un sistema IoT para el monitoreo de residuos (aceite de cocina usado), donde desarrollé parte del backend y trabajé con datos en tiempo real.
 
 En análisis y automatización de datos, he implementado flujos con Python y Google Apps Script, y he construido dashboards dinámicos en Power BI para facilitar la visualización, el reporte y la toma de decisiones. Uno de mis logros más relevantes fue optimizar el procesamiento de encuestas institucionales, reduciendo el tiempo de generación de informes mediante la automatización de limpieza, validación y visualización de datos.
 
